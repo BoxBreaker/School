@@ -1,0 +1,35 @@
+﻿using System;
+using static System.Console;
+
+
+namespace TacoPlace
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int itemNum[] = { "20", "23", "25", "31" };
+            string itemName[] = { "Enchillada", "Burrito", "Taco", "Tostada" };
+            float price[] = { 2.95, 1.95, 2.25, 3.10 };
+            WriteLine("Please enter the item number:");
+            string input;
+            string input = Convert.ToInt32(ReadLine());
+            OrderInformation;
+        }
+        private static void OrderInformation(int Value, Get input, Get itemName, Get itemNum, Get price)
+
+        {
+            for input(20, 23, 25 31)
+                WriteLine(itemNum[x] + itemName[x] + price[x]);
+            }
+        if (input =! 20,23,25,31)
+            WriteLine("Invalid Selection");
+        return;
+
+        }
+
+
+
+
+}}}

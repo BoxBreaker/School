@@ -1,0 +1,18 @@
+﻿using static System.Console;
+
+namespace MilesToKilometers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+       
+
+            double kilometers = 1.6;
+            double miles = 28.94;
+            WriteLine("You traveled " + miles + " miles today! That's the same as " + (kilometers * miles) + " Kilometers!");
+
+
+       }
+    }
+}
