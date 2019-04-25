@@ -1,0 +1,26 @@
+﻿using static System.Console;
+
+namespace Young_Blood
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            WriteLine("Young Blood");
+            WriteLine("Keep your time, keep your mind, keep humble");
+            WriteLine("Start your life in the middle of the Jungle");
+            WriteLine("");
+            WriteLine("");
+            WriteLine("Rub your eyes, be surprised, keep hungry.");
+            WriteLine("Stay alive and try to lose all of your money");
+            WriteLine("");
+            WriteLine("If you want I could tell the truth");
+            WriteLine("That this life takes a toll on you");
+            WriteLine("That I spend nights stitching up the loose threads of my soul");
+            WriteLine("");
+            WriteLine("");
+            WriteLine("And in the Mornings I'm Bullet Proof");
+        }
+    }   
+}
