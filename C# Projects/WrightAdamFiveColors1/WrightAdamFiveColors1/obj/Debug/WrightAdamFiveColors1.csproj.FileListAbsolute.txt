@@ -1,0 +1,8 @@
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\bin\Debug\WrightAdamFiveColors1.exe.config
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\bin\Debug\WrightAdamFiveColors1.exe
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\bin\Debug\WrightAdamFiveColors1.pdb
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\obj\Debug\WrightAdamFiveColors1.Form1.resources
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\obj\Debug\WrightAdamFiveColors1.Properties.Resources.resources
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\obj\Debug\WrightAdamFiveColors1.csproj.GenerateResource.Cache
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\obj\Debug\WrightAdamFiveColors1.exe
+c:\users\joyn\documents\visual studio 2015\Projects\WrightAdamFiveColors1\WrightAdamFiveColors1\obj\Debug\WrightAdamFiveColors1.pdb
